@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "894708444822",
+    "project_id": "noah-723e1",
+    "storage_bucket": "noah-723e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894708444822:android:dcbb6d7f5cba6d8537dcb7",
+        "android_client_info": {
+          "package_name": "com.NoAH.Myproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV_yDdlxq-N5ISpnddwWt6oXtgBuHqgB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-7436132271471837~3638031137"
+    }
+  ],
+  "configuration_version": "1"
+}
